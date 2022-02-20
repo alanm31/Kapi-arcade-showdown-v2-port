@@ -1,5 +1,5 @@
 kapi
 game&watch
-week 1
-week 2
-week 6
+week1
+week2
+week6
